@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/9elements/fancy-border-radius.git"
+    "url": "git+https://github.com/LuckiM21/border-radius.git"
   },
-  "author": "",
+  "author": "Luckie Mumba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/9elements/fancy-border-radius/issues"
+    "url": "https://github.com/LuckiM21/border-radius/issues"
   },
-  "homepage": "https://github.com/9elements/fancy-border-radius#readme",
+  "homepage": "https://github.com/LuckiM21/border-radius/",
   "devDependencies": {
     "sass": "^1.55.0",
     "vite": "^3.2.1",
